@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="CursoContabilidadeGestao" version="1.2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd"><metadata><schema>ADL SCORM</schema><schemaversion>1.2</schemaversion></metadata><organizations default="ORG1"><organization identifier="ORG1"><title>Contabilidade para Gestão - Curso Prático 30 Dias</title><item identifier="ITEM_INDEX" identifierref="RES_INDEX"><title>Início</title></item><item identifier="ITEM01" identifierref="RES01"><title>Aula 1: Como um gestor lê contabilidade</title></item>
+<item identifier="ITEM02" identifierref="RES02"><title>Aula 2: Equação financeira da empresa</title></item>
+<item identifier="ITEM03" identifierref="RES03"><title>Aula 3: Contas críticas para gestão</title></item>
+<item identifier="ITEM04" identifierref="RES04"><title>Aula 4: Débito e crédito sem complicar</title></item>
+<item identifier="ITEM05" identifierref="RES05"><title>Aula 5: Lançamentos reais</title></item>
+<item identifier="ITEM06" identifierref="RES06"><title>Aula 6: IVA e impacto na caixa</title></item>
+<item identifier="ITEM07" identifierref="RES07"><title>Aula 7: Simulação semanal</title></item>
+<item identifier="ITEM08" identifierref="RES08"><title>Aula 8: Balancete: arma principal</title></item>
+<item identifier="ITEM09" identifierref="RES09"><title>Aula 9: Demonstração de Resultados</title></item>
+<item identifier="ITEM10" identifierref="RES10"><title>Aula 10: Balanço</title></item>
+<item identifier="ITEM11" identifierref="RES11"><title>Aula 11: Ligação entre documentos</title></item>
+<item identifier="ITEM12" identifierref="RES12"><title>Aula 12: Construir uma DR simples</title></item>
+<item identifier="ITEM13" identifierref="RES13"><title>Aula 13: Diagnóstico rápido</title></item>
+<item identifier="ITEM14" identifierref="RES14"><title>Aula 14: Avaliação intermédia</title></item>
+<item identifier="ITEM15" identifierref="RES15"><title>Aula 15: Liquidez</title></item>
+<item identifier="ITEM16" identifierref="RES16"><title>Aula 16: Rentabilidade</title></item>
+<item identifier="ITEM17" identifierref="RES17"><title>Aula 17: Endividamento</title></item>
+<item identifier="ITEM18" identifierref="RES18"><title>Aula 18: Cash-flow</title></item>
+<item identifier="ITEM19" identifierref="RES19"><title>Aula 19: Margens</title></item>
+<item identifier="ITEM20" identifierref="RES20"><title>Aula 20: Caso completo: lucro sem dinheiro</title></item>
+<item identifier="ITEM21" identifierref="RES21"><title>Aula 21: Simulação de decisão</title></item>
+<item identifier="ITEM22" identifierref="RES22"><title>Aula 22: Ler balancetes como auditor</title></item>
+<item identifier="ITEM23" identifierref="RES23"><title>Aula 23: Ajustamentos e acréscimos</title></item>
+<item identifier="ITEM24" identifierref="RES24"><title>Aula 24: Cruzamento DR + Balanço + Caixa</title></item>
+<item identifier="ITEM25" identifierref="RES25"><title>Aula 25: EBITDA</title></item>
+<item identifier="ITEM26" identifierref="RES26"><title>Aula 26: Decisão de gestão</title></item>
+<item identifier="ITEM27" identifierref="RES27"><title>Aula 27: Caso avançado</title></item>
+<item identifier="ITEM28" identifierref="RES28"><title>Aula 28: Deteção de erros</title></item>
+<item identifier="ITEM29" identifierref="RES29"><title>Aula 29: Projeto final</title></item>
+<item identifier="ITEM30" identifierref="RES30"><title>Aula 30: Certificação</title></item><item identifier="ITEM_EXAME" identifierref="RES_EXAME"><title>Exame Final</title></item></organization></organizations><resources><resource identifier="RES_INDEX" type="webcontent" adlcp:scormtype="sco" href="index.html"><file href="index.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource><resource identifier="RES01" type="webcontent" adlcp:scormtype="sco" href="modulos/m01.html"><file href="modulos/m01.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES02" type="webcontent" adlcp:scormtype="sco" href="modulos/m02.html"><file href="modulos/m02.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES03" type="webcontent" adlcp:scormtype="sco" href="modulos/m03.html"><file href="modulos/m03.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES04" type="webcontent" adlcp:scormtype="sco" href="modulos/m04.html"><file href="modulos/m04.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES05" type="webcontent" adlcp:scormtype="sco" href="modulos/m05.html"><file href="modulos/m05.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES06" type="webcontent" adlcp:scormtype="sco" href="modulos/m06.html"><file href="modulos/m06.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES07" type="webcontent" adlcp:scormtype="sco" href="modulos/m07.html"><file href="modulos/m07.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES08" type="webcontent" adlcp:scormtype="sco" href="modulos/m08.html"><file href="modulos/m08.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES09" type="webcontent" adlcp:scormtype="sco" href="modulos/m09.html"><file href="modulos/m09.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES10" type="webcontent" adlcp:scormtype="sco" href="modulos/m10.html"><file href="modulos/m10.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES11" type="webcontent" adlcp:scormtype="sco" href="modulos/m11.html"><file href="modulos/m11.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES12" type="webcontent" adlcp:scormtype="sco" href="modulos/m12.html"><file href="modulos/m12.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES13" type="webcontent" adlcp:scormtype="sco" href="modulos/m13.html"><file href="modulos/m13.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES14" type="webcontent" adlcp:scormtype="sco" href="modulos/m14.html"><file href="modulos/m14.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES15" type="webcontent" adlcp:scormtype="sco" href="modulos/m15.html"><file href="modulos/m15.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES16" type="webcontent" adlcp:scormtype="sco" href="modulos/m16.html"><file href="modulos/m16.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES17" type="webcontent" adlcp:scormtype="sco" href="modulos/m17.html"><file href="modulos/m17.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES18" type="webcontent" adlcp:scormtype="sco" href="modulos/m18.html"><file href="modulos/m18.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES19" type="webcontent" adlcp:scormtype="sco" href="modulos/m19.html"><file href="modulos/m19.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES20" type="webcontent" adlcp:scormtype="sco" href="modulos/m20.html"><file href="modulos/m20.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES21" type="webcontent" adlcp:scormtype="sco" href="modulos/m21.html"><file href="modulos/m21.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES22" type="webcontent" adlcp:scormtype="sco" href="modulos/m22.html"><file href="modulos/m22.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES23" type="webcontent" adlcp:scormtype="sco" href="modulos/m23.html"><file href="modulos/m23.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES24" type="webcontent" adlcp:scormtype="sco" href="modulos/m24.html"><file href="modulos/m24.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES25" type="webcontent" adlcp:scormtype="sco" href="modulos/m25.html"><file href="modulos/m25.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES26" type="webcontent" adlcp:scormtype="sco" href="modulos/m26.html"><file href="modulos/m26.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES27" type="webcontent" adlcp:scormtype="sco" href="modulos/m27.html"><file href="modulos/m27.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES28" type="webcontent" adlcp:scormtype="sco" href="modulos/m28.html"><file href="modulos/m28.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES29" type="webcontent" adlcp:scormtype="sco" href="modulos/m29.html"><file href="modulos/m29.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource>
+<resource identifier="RES30" type="webcontent" adlcp:scormtype="sco" href="modulos/m30.html"><file href="modulos/m30.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource><resource identifier="RES_EXAME" type="webcontent" adlcp:scormtype="sco" href="quiz/exame_final.html"><file href="quiz/exame_final.html"/><file href="assets/css/style.css"/><file href="assets/js/scorm_api.js"/></resource></resources></manifest>
